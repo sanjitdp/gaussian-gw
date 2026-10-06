@@ -1,0 +1,45 @@
+{
+  "empirical_identity_error": 0.0,
+  "map_error_max": 1.1857687063475099e-15,
+  "gradient_derivative_error": 1.2091605494646274e-10,
+  "weighted_sdp_checks": [
+    {
+      "sdp_objective": -0.8487083527851045,
+      "primal": -0.8487083528394523,
+      "dual": -0.8487083528405397,
+      "relative_dual_gap": 1.0873524303178783e-12,
+      "gradient_norm": 1.192378791387486e-07,
+      "kkt_residual": 2.001931867853953e-07,
+      "feasibility": 7.235896586049433e-16,
+      "numerical_rank": 2,
+      "rank_threshold": 1e-06,
+      "rank_ratio": 2.7091403972803553e-07,
+      "dual_min_eigenvalue": 3.5838037833500033e-13,
+      "unshifted_dual_min_eigenvalue": -1.0121749769605724e-13,
+      "complementarity": 9.250497157121969e-08,
+      "runtime": 0.004381624981760979,
+      "iterations": 75,
+      "stop_reason": "dual_gap",
+      "method": "RGD"
+    },
+    {
+      "sdp_objective": -0.8487083527851045,
+      "primal": -0.8487083528240832,
+      "dual": -0.8487083528581139,
+      "relative_dual_gap": 3.403066717311276e-11,
+      "gradient_norm": 2.7715827102561356e-06,
+      "kkt_residual": 4.4940651604777144e-06,
+      "feasibility": 5.862811474656163e-16,
+      "numerical_rank": 2,
+      "rank_threshold": 1e-06,
+      "rank_ratio": 0.4552860396695084,
+      "dual_min_eigenvalue": 3.5044792544809763e-13,
+      "unshifted_dual_min_eigenvalue": -1.3699747597202192e-11,
+      "complementarity": 2.0766124094847304e-06,
+      "runtime": 0.000462958007119596,
+      "iterations": 2,
+      "stop_reason": "dual_gap",
+      "method": "Fixed point"
+    }
+  ]
+}

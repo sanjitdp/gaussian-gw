@@ -1,0 +1,12 @@
+{
+  "model": "all-MiniLM-L6-v2",
+  "revision": "c9745ed1d9f207416be6d2e6f8de32d1f16199bf",
+  "device": "mps",
+  "max_seq_length": 256,
+  "pool_per_category": 20000,
+  "trials": 10,
+  "users_per_category": 40,
+  "documents_per_user": 400,
+  "numpy_version": "1.26.4",
+  "torch_version": "2.8.0"
+}

@@ -1,0 +1,17 @@
+numpy
+scipy
+pandas
+matplotlib
+seaborn
+scikit-learn
+cvxpy
+clarabel
+torch
+transformers
+sentence-transformers
+datasets
+pyarrow
+fsspec[http]
+tqdm
+jupyterlab
+matplotlib-inline

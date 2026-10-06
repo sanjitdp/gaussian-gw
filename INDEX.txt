@@ -1,0 +1,51 @@
+Code supplement: Optimal Transportation and Alignment Between Gaussian Measures
+
+We include implementations of Gaussian IGW alignment and multimarginal
+Gaussian optimal transport, experiment scripts, notebooks, and numerical
+result summaries. See README.md for installation and reproduction commands.
+
+Contents
+--------
+README.md: setup, numerical methods, and experiment commands.
+requirements.txt: Python dependencies.
+LICENSE: terms for use and redistribution.
+src/*.py: numerical solvers, experiment runners, plotting, and validation.
+src/*.ipynb: examples and notebook experiment workflows.
+src/math.mplstyle: plotting style.
+src/cache/*.csv and *.json: recorded measurements and numerical checks.
+src/cache/clustering/metadata.json: clustering model and experiment settings.
+
+File inventory
+--------------
+.gitignore
+INDEX.txt
+LICENSE
+README.md
+requirements.txt
+src/cache/alignment_diagnostics.csv
+src/cache/cka_scores.csv
+src/cache/clustering/metadata.json
+src/cache/clustering_comparisons.csv
+src/cache/map_audit.json
+src/cache/numerical_validation.json
+src/cache/optimization_comparison.csv
+src/cache/optimization_diagnostics.csv
+src/cache/optimization_summary.csv
+src/cache/planar_map_audit.json
+src/distillations.ipynb
+src/igw_numerics.py
+src/math.mplstyle
+src/multimarginal.ipynb
+src/multimarginal_numerics.py
+src/plotting.ipynb
+src/regenerate_cka_figures.py
+src/regenerate_planar_examples.py
+src/run_alignment_experiments.py
+src/run_clustering_comparisons.py
+src/run_distillations.py
+src/run_mm_chunk.py
+src/run_optimization_diagnostics.py
+src/run_optimization_experiments.py
+src/summarize_optimization_experiments.py
+src/user_clustering.ipynb
+src/validate_numerics.py

@@ -1,0 +1,38 @@
+[
+  {
+    "target_covariance_error": 8.028101591626937e-16,
+    "cross_covariance_error": 7.319750591734535e-17
+  },
+  {
+    "target_covariance_error": 6.568142157908842e-16,
+    "cross_covariance_error": 8.193556130129328e-18
+  },
+  {
+    "target_covariance_error": 1.2166611902680964e-16,
+    "cross_covariance_error": 2.372006807519838e-16
+  },
+  {
+    "target_covariance_error": 3.178915094047241e-15,
+    "cross_covariance_error": 9.340767775868527e-17
+  },
+  {
+    "target_covariance_error": 5.907429157485106e-16,
+    "cross_covariance_error": 1.0658491783511923e-16
+  },
+  {
+    "target_covariance_error": 6.26394623489476e-16,
+    "cross_covariance_error": 1.1443907920426993e-16
+  },
+  {
+    "target_covariance_error": 1.3441736084337475e-15,
+    "cross_covariance_error": 1.7498166614204834e-16
+  },
+  {
+    "target_covariance_error": 9.03441417841293e-16,
+    "cross_covariance_error": 1.669994154500039e-16
+  },
+  {
+    "target_covariance_error": 9.396373701455244e-16,
+    "cross_covariance_error": 1.1395018564529056e-16
+  }
+]

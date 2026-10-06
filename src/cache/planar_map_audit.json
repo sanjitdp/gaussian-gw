@@ -1,0 +1,28 @@
+[
+  {
+    "cell": 2,
+    "kind": "IGW",
+    "target_covariance_error": 3.061471021340406e-16,
+    "lower_bound": 5.3210243313340495,
+    "estimate": 9.18432114366672,
+    "cross_covariance_error": 7.100092209651695e-17
+  },
+  {
+    "cell": 3,
+    "kind": "IGW",
+    "target_covariance_error": 3.5350822365742444e-16,
+    "lower_bound": 1.9361271188575133,
+    "estimate": 2.2039503147992137,
+    "cross_covariance_error": 4.430543652413808e-17
+  },
+  {
+    "cell": 4,
+    "kind": "W2",
+    "target_covariance_error": 7.55371585756951e-13
+  },
+  {
+    "cell": 5,
+    "kind": "W2",
+    "target_covariance_error": 7.55371585756951e-13
+  }
+]
